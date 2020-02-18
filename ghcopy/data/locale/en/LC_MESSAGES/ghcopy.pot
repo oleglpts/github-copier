@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-02-18 17:10+IST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: __main__.py:37
+msgid "cloning into"
+msgstr ""
+
+#: __main__.py:47
+msgid "fetching"
+msgstr ""
+
+#: __main__.py:49
+msgid "pulling current branch"
+msgstr ""
+
+#: __main__.py:57
+msgid "unexpected exception"
+msgstr ""
+
+#: __main__.py:65
+msgid "parameters 'user' and 'password' or 'token' are required"
+msgstr ""
+
+#: __main__.py:77 __main__.py:86
+msgid "copying started"
+msgstr ""
+
+#: __main__.py:77 __main__.py:86 __main__.py:98
+msgid "logging level"
+msgstr ""
+
+#: __main__.py:96
+msgid "incorrect repository type"
+msgstr ""
+
+#: __main__.py:98
+msgid "copying ended"
+msgstr ""
+
+#: __main__.py:100
+msgid "incorrect user name, password, or token"
+msgstr ""
+
+#: __main__.py:103
+msgid "incorrect user name, password or token"
+msgstr ""
+
+#: config/__init__.py:48
+msgid "incorrect logging level"
+msgstr ""
+
+#: config/__init__.py:48
+msgid "used"
+msgstr ""
+
+#: config/__init__.py:49
+msgid "by default"
+msgstr ""
+
+#: config/__init__.py:59
+msgid "activated virtual environment"
+msgstr ""
+
+#: utils/__init__.py:130 utils/__init__.py:133
+msgid "error"
+msgstr ""
+
+#: utils/__init__.py:135
+msgid "error termination"
+msgstr ""
+

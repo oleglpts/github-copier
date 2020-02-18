@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./venv_create ghcopy
+cp ../data/config_debug.json ~/.ghcopy/config.json
+cp -r ../data/locale ~/.ghcopy

@@ -1,0 +1,12 @@
+{
+    "environment": "",
+    "user": "",
+    "password": "",
+    "token": "",
+    "type": "bitbucket",
+    "locale_domain": "ghcopy",
+    "language": "en",
+    "locale_dir": "~/.ghcopy/locale",
+    "log_file": "~/.ghcopy/ghcopy.log",
+    "log_format": "%(levelname)-10s|%(asctime)s| %(name)s --- %(message)s"
+}

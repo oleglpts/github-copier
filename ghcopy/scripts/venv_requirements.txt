@@ -1,0 +1,16 @@
+bitbucket-python==0.2.2
+certifi==2019.11.28
+chardet==3.0.4
+Deprecated==1.2.7
+gitdb2==3.0.2
+GitPython==3.0.8
+idna==2.8
+pip==20.0.2
+PyGithub==1.46
+PyJWT==1.7.1
+requests==2.22.0
+setuptools==45.2.0
+smmap2==2.0.5
+urllib3==1.25.8
+wheel==0.34.2
+wrapt==1.12.0
