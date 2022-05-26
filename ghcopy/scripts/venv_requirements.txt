@@ -5,7 +5,7 @@ Deprecated==1.2.7
 gitdb2==3.0.2
 GitPython==3.0.8
 idna==2.8
-pip==20.0.2
+pip==21.1
 PyGithub==1.46
 PyJWT==2.4.0
 requests==2.22.0
