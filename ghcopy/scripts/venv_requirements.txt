@@ -12,5 +12,5 @@ requests==2.22.0
 setuptools==45.2.0
 smmap2==2.0.5
 urllib3==1.26.5
-wheel==0.34.2
+wheel==0.38.1
 wrapt==1.12.0
